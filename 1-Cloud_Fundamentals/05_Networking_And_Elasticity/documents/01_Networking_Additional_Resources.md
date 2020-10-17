@@ -1,0 +1,2 @@
+Additional Resources
+We have also provided another lesson that covers the basic knowledge and tools required to configure and investigate network connectivity. This is a refresher course you can access under the "Extracurricular" Section within the Classroom. Here is the link to it: [Networking](https://classroom.udacity.com/nanodegrees/nd9991/parts/f13626bd-985f-4085-88f5-65c2fce28762)
