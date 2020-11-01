@@ -1,0 +1,5 @@
+##Using CloudFormation
+* Note that since setting up a database is usually a one-time event, you can just use the console (point and click) to create the database server instead of writing CloudFormation code. Using CloudFormation is still an option if you choose.
+##CloudFormation retention policy
+* You'll want your data to persist even if your stack of resources is updated or deleted.
+* [Retention Policy](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-attribute-deletionpolicy.html): keeps a service even if the entire stack of infrastructure is marked for removal. In CloudFormation, the syntax is ```DeletionPolicy: retain```. This is very useful to assign to your data storage (database, file storage), to make sure that your data is saved even when the stack is updated or deleted.

@@ -1,0 +1,4 @@
+#Review the AWS Reference Architecture Page
+Visit the [AWS Reference Architecture](https://aws.amazon.com/architecture/) Page and study some of the diagrams. As a case-study, pay particular attention to [WordPress Architecture](https://github.com/aws-samples/aws-refarch-wordpress), which is the CMS software that runs on nearly 60% of all sites on the internet.
+
+WordPress is a great example to help you understand how auto-scaling servers keep track of non-database data, such as images, config files, and similar objects, in this particular case by means of external storage (EFS) mounted to the EC2 Servers -- much like the way you would have your personal files and photos in an external USB drive that you can connect to any computer when you need to access them.

@@ -1,0 +1,2 @@
+#Exercise Solution
+We strongly recommend you to solve the exercise on your own. If stuck, you may see the lesson-wise solution available in this [GitHub repository](https://github.com/udacity/nd9991-c2-Infrastructure-as-Code-v1-Exercises_Solution)
